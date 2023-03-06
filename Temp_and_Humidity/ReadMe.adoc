@@ -6,8 +6,6 @@
 
 = Project: {Tempreture and humibary monitor}
 
-Describe your project
-
 == Step 1: components needed list:
 
 1. 3 - wires
